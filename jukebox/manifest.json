@@ -1,0 +1,10 @@
+{
+  "name": "Earth Jukebox",
+  "short_name": "EarthJukebox",
+  "description": "NASA GISTEMP temperature data sonification — hear the warming of our planet",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#040d1a",
+  "theme_color": "#f59e0b",
+  "icons": []
+}
